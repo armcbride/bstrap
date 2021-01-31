@@ -1,3 +1,9 @@
-.about-container {
-  border: solid black 2px;  
+.about-container, 
+.portfolio-container,
+.contact-container {
+  border: solid #4b1a1c 2px; 
+  border-radius: 15%;
+  box-shadow: 12px 12px 8px 1px #5e2123; 
+  padding: 5rem;
+  margin: 5rem;
 }
